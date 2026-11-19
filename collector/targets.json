@@ -1,0 +1,28 @@
+[
+  {
+    "name": "home",
+    "url": "https://ads.tiktok.com/business/creativecenter/pc/en"
+  },
+  {
+    "name": "hashtags-region-param",
+    "url": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?period=7&region=ID",
+    "region": "Indonesia",
+    "loadMore": 3
+  },
+  {
+    "name": "hashtags-countrycode-param",
+    "url": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?period=7&countryCode=ID",
+    "region": "Indonesia",
+    "loadMore": 1
+  },
+  {
+    "name": "top-videos",
+    "url": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&region=ID",
+    "region": "Indonesia",
+    "loadMore": 2
+  },
+  {
+    "name": "new-domain",
+    "url": "https://creative-center.tiktok.com/"
+  }
+]
